@@ -1,3 +1,4 @@
+// token-manager.ts
 import { Response, Request, NextFunction } from "express";
 import jwt from "jsonwebtoken";
 import { COOKIE_NAME } from "./constants.js";

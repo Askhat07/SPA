@@ -1,4 +1,5 @@
-import React from "react";
+// import React from "react";
+// Header.tsx
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Logo from "./shared/Logo";
@@ -22,6 +23,12 @@ const Header = () => {
                 text="Go to Chat"
                 textColor="black"
               />
+              {/* <NavigationLink
+                bg="#ff4081"
+                to="/support"
+                text="Support"
+                textColor="black"
+              /> */}
               <NavigationLink
                 bg="#51538f"
                 textColor="white"

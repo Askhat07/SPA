@@ -1,0 +1,30 @@
+{
+  "short_name": "MyApp",
+  "name": "My Progressive Web App",
+  "icons": [
+    {
+      "src": "icons/airobot.png",
+      "sizes": "473x630",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/chat.png",
+      "sizes": "1484x622",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/openai.png",
+      "sizes": "296x300",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/robot.png",
+      "sizes": "600x544",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

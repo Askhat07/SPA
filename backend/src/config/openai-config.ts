@@ -1,3 +1,4 @@
+// openai-config.ts
 import { Configuration } from "openai";
 
 export const configureOpenAI = () => {

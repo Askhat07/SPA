@@ -1,3 +1,4 @@
+// index.ts
 import { Router } from "express";
 import userRoutes from "./user-routes.js";
 import chatRoutes from "./chat-routes.js";

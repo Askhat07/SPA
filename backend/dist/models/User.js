@@ -1,3 +1,4 @@
+// User.ts
 import mongoose from "mongoose";
 import { randomUUID } from "crypto";
 const chatSchema = new mongoose.Schema({
